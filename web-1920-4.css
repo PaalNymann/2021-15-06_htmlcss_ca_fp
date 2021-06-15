@@ -1,0 +1,278 @@
+/* screen - web-1920-4 */
+
+.web-1920-4 {
+  align-items: flex-start;
+  background-color: var(--white);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  padding: 54px 150px;
+  width: 1920px;
+}
+.web-1920-4 .about-us {
+  letter-spacing: 0;
+  line-height: 35px;
+  min-height: 49px;
+  min-width: 170px;
+  white-space: nowrap;
+}
+.web-1920-4 .downloads {
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-top: 15px;
+  min-height: 49px;
+  min-width: 224px;
+  white-space: nowrap;
+}
+.web-1920-4 .facebook-icon-preview-1 {
+  height: 109px;
+  left: 178px;
+  object-fit: cover;
+  position: absolute;
+  top: 44px;
+  width: 109px;
+}
+.web-1920-4 .faq {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 95px;
+  white-space: nowrap;
+}
+.web-1920-4 .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -1.0px;
+  margin-left: 129px;
+  min-height: 122px;
+  width: 224px;
+}
+.web-1920-4 .flex-col-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -1.0px;
+  margin-left: 192px;
+  min-height: 122px;
+  width: 107px;
+}
+.web-1920-4 .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -1.0px;
+  margin-left: 249px;
+  min-height: 122px;
+  width: 126px;
+}
+.web-1920-4 .group-11 {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  margin-left: 2.0px;
+  min-width: 1614px;
+}
+.web-1920-4 .group-12 {
+  align-items: flex-end;
+  display: flex;
+  margin-left: 1px;
+  margin-top: 58px;
+  min-width: 1616px;
+}
+.web-1920-4 .group-14 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 134px;
+  min-height: 460px;
+  width: 1364px;
+}
+.web-1920-4 .group-2 {
+  align-items: flex-end;
+  background-color: var(--science-blue);
+  border-radius: 21px;
+  cursor: pointer;
+  display: flex;
+  height: 68px;
+  justify-content: flex-end;
+  margin-bottom: 18px;
+  margin-left: 184px;
+  min-width: 259px;
+  padding: 8px 72px;
+}
+.web-1920-4 .group-3 {
+  align-items: flex-end;
+  background-color: var(--science-blue);
+  border-radius: 21px;
+  cursor: pointer;
+  display: flex;
+  height: 68px;
+  justify-content: flex-end;
+  margin-bottom: 18px;
+  margin-left: 184px;
+  min-width: 259px;
+  padding: 9px 50px;
+}
+.web-1920-4 .group-4 {
+  align-items: flex-end;
+  background-color: var(--science-blue);
+  border-radius: 21px;
+  cursor: pointer;
+  display: flex;
+  height: 68px;
+  justify-content: flex-end;
+  margin-bottom: 19px;
+  min-width: 259px;
+  padding: 9px 43px;
+}
+.web-1920-4 .group-5 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 184px;
+  min-width: 287px;
+}
+.web-1920-4 .icaddtoqueue24px {
+  height: 71px;
+  margin-left: 1.26px;
+  object-fit: cover;
+  width: 99px;
+}
+.web-1920-4 .icairplay24px {
+  cursor: pointer;
+  height: 63px;
+  object-fit: cover;
+  width: 107px;
+}
+.web-1920-4 .icmovie24px {
+  cursor: pointer;
+  height: 58px;
+  margin-right: 3.44px;
+  object-fit: cover;
+  width: 111px;
+}
+.web-1920-4 .image-1 {
+  height: 78px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 59px;
+  width: 78px;
+}
+.web-1920-4 .instagramorigin-194901224047116 {
+  height: 152px;
+  left: 61px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 152px;
+}
+.web-1920-4 .login {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 3.0px;
+  margin-top: 16px;
+  min-height: 42px;
+  min-width: 91px;
+  white-space: nowrap;
+}
+.web-1920-4 .overlap-group {
+  height: 153px;
+  position: relative;
+  width: 287px;
+}
+.web-1920-4 .overlap-group-1 {
+  height: 137px;
+  margin-bottom: -2px;
+  margin-left: 256px;
+  position: relative;
+  width: 59px;
+}
+.web-1920-4 .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  margin-top: 69px;
+  min-width: 1364px;
+}
+.web-1920-4 .overlap-group2 {
+  height: 49px;
+  margin-top: 71px;
+  position: relative;
+  width: 159px;
+}
+.web-1920-4 .overlap-group3 {
+  height: 49px;
+  position: relative;
+  width: 169px;
+}
+.web-1920-4 .password {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+.web-1920-4 .place {
+  letter-spacing: 0;
+  line-height: 35px;
+  min-height: 49px;
+  min-width: 157px;
+  white-space: nowrap;
+}
+.web-1920-4 .rectangle-10 {
+  background-color: var(--white);
+  height: 95px;
+  margin-left: -1px;
+  margin-top: -1px;
+  width: 1364px;
+}
+.web-1920-4 .rectangle-4 {
+  background-color: var(--white);
+  height: 95px;
+  margin-top: 32px;
+  width: 1364px;
+}
+.web-1920-4 .signup {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: 8px;
+  min-height: 42px;
+  min-width: 126px;
+  text-align: center;
+  white-space: nowrap;
+}
+.web-1920-4 .square-eyes-logo {
+  cursor: pointer;
+  height: 144px;
+  object-fit: cover;
+  width: 271px;
+}
+.web-1920-4 .terms {
+  letter-spacing: 0;
+  line-height: 35px;
+  min-height: 49px;
+  min-width: 113px;
+  white-space: nowrap;
+}
+.web-1920-4 .text-5 {
+  cursor: pointer;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: 86px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+.web-1920-4 .username {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}

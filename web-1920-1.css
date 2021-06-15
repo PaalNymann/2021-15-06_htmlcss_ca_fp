@@ -1,0 +1,283 @@
+.web-1920-1 {
+  align-items: center;
+  background-color: var(--white);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  height: 2139px;
+  overflow: hidden;
+  padding: 54px 0;
+  width: 1920px;
+}
+.web-1920-1 .about-us {
+  letter-spacing: 0;
+  line-height: 35px;
+  min-height: 49px;
+  min-width: 170px;
+  white-space: nowrap;
+}
+.web-1920-1 .downloads {
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-top: 15px;
+  min-height: 49px;
+  min-width: 224px;
+  white-space: nowrap;
+}
+.web-1920-1 .facebook-icon-preview-1 {
+  height: 109px;
+  left: 178px;
+  object-fit: cover;
+  position: absolute;
+  top: 44px;
+  width: 109px;
+}
+.web-1920-1 .faq {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 95px;
+  white-space: nowrap;
+}
+.web-1920-1 .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -1.0px;
+  margin-left: 129px;
+  min-height: 122px;
+  width: 224px;
+}
+.web-1920-1 .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -1.0px;
+  margin-left: 249px;
+  min-height: 122px;
+  width: 126px;
+}
+.web-1920-1 .flex-col-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -1.0px;
+  margin-left: 192px;
+  min-height: 122px;
+  width: 107px;
+}
+.web-1920-1 .group- {
+  align-items: flex-start;
+  border: 2px solid var(--white);
+  border-radius: 121px/98.5px;
+  display: flex;
+  height: 197px;
+  justify-content: flex-end;
+  left: 789px;
+  min-width: 242px;
+  padding: 41.8px 44.4px;
+  position: absolute;
+  top: 551px;
+}
+.web-1920-1 .group-2 {
+  align-items: flex-end;
+  background-color: var(--science-blue);
+  border-radius: 21px;
+  cursor: pointer;
+  display: flex;
+  height: 68px;
+  justify-content: flex-end;
+  margin-bottom: 19px;
+  margin-left: 184px;
+  min-width: 259px;
+  padding: 8px 72px;
+}
+.web-1920-1 .group-3 {
+  align-items: flex-end;
+  background-color: var(--science-blue);
+  border-radius: 21px;
+  cursor: pointer;
+  display: flex;
+  height: 68px;
+  justify-content: flex-end;
+  margin-bottom: 19px;
+  margin-left: 184px;
+  min-width: 259px;
+  padding: 9px 50px;
+}
+.web-1920-1 .group-4 {
+  align-items: flex-end;
+  background-color: var(--science-blue);
+  border-radius: 21px;
+  cursor: pointer;
+  display: flex;
+  height: 68px;
+  justify-content: flex-end;
+  margin-bottom: 20px;
+  min-width: 259px;
+  padding: 9px 43px;
+}
+.web-1920-1 .group-5 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 184px;
+  min-width: 287px;
+}
+.web-1920-1 .group-6 {
+  align-items: flex-end;
+  display: flex;
+  height: 153px;
+  left: 1px;
+  min-width: 1616px;
+  position: absolute;
+  top: 268px;
+}
+.web-1920-1 .group-8 {
+  align-items: flex-end;
+  display: flex;
+  margin-right: 48.0px;
+  min-width: 1614px;
+}
+.web-1920-1 .icaddtoqueue24px {
+  cursor: pointer;
+  height: 71px;
+  margin-left: 1.26px;
+  object-fit: cover;
+  width: 99px;
+}
+.web-1920-1 .icairplay24px {
+  cursor: pointer;
+  height: 63px;
+  object-fit: cover;
+  width: 107px;
+}
+.web-1920-1 .icmovie24px {
+  cursor: pointer;
+  height: 58px;
+  margin-right: 3.44px;
+  object-fit: cover;
+  width: 111px;
+}
+.web-1920-1 .icplayarrow24px {
+  height: 110px;
+  object-fit: cover;
+  width: 128px;
+}
+.web-1920-1 .image-1 {
+  height: 78px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 59px;
+  width: 78px;
+}
+.web-1920-1 .instagramorigin-194901224047116 {
+  height: 152px;
+  left: 61px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 152px;
+}
+.web-1920-1 .login {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 3.0px;
+  margin-top: 16px;
+  min-height: 42px;
+  min-width: 91px;
+  white-space: nowrap;
+}
+.web-1920-1 .lorem-ipsum-dolor-si {
+  color: var(--dove-gray);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-m);
+  height: 300px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  width: 1642px;
+}
+.web-1920-1 .overlap-group {
+  background-image: url(../img/jakob-owens-ciur8zisx60-unsplash@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1298px;
+  margin-left: 1.0px;
+  margin-top: 35px;
+  position: relative;
+  width: 1921px;
+}
+.web-1920-1 .overlap-group1 {
+  height: 421px;
+  margin-left: 2.0px;
+  margin-top: 13px;
+  position: relative;
+  width: 1642px;
+}
+.web-1920-1 .overlap-group2 {
+  height: 153px;
+  position: relative;
+  width: 287px;
+}
+.web-1920-1 .overlap-group3 {
+  height: 137px;
+  margin-bottom: -2px;
+  margin-left: 256px;
+  position: relative;
+  width: 59px;
+}
+.web-1920-1 .place {
+  letter-spacing: 0;
+  line-height: 35px;
+  min-height: 49px;
+  min-width: 157px;
+  white-space: nowrap;
+}
+.web-1920-1 .signup {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: 8px;
+  min-height: 42px;
+  min-width: 126px;
+  text-align: center;
+  white-space: nowrap;
+}
+.web-1920-1 .square-eyes-logo {
+  height: 144px;
+  object-fit: cover;
+  width: 271px;
+}
+.web-1920-1 .terms {
+  letter-spacing: 0;
+  line-height: 35px;
+  min-height: 49px;
+  min-width: 113px;
+  white-space: nowrap;
+}
+.web-1920-1 .text-1 {
+  align-self: flex-start;
+  color: var(--dove-gray);
+  font-family: var(--font-family-segoeui-semibold);
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 45px;
+  margin-left: 140px;
+  margin-top: 49px;
+  min-height: 62px;
+  white-space: nowrap;
+}
+.web-1920-1 .text-2 {
+  cursor: pointer;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: 86px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}

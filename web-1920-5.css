@@ -1,0 +1,229 @@
+/* screen - web-1920-5 */
+
+.web-1920-5 {
+  align-items: center;
+  background-color: var(--white);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  height: 2086px;
+  padding: 54px 93px;
+  width: 1920px;
+}
+.web-1920-5 .about-us {
+  letter-spacing: 0;
+  line-height: 35px;
+  min-height: 49px;
+  min-width: 170px;
+  white-space: nowrap;
+}
+.web-1920-5 .downloads {
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-top: 15px;
+  min-height: 49px;
+  min-width: 224px;
+  white-space: nowrap;
+}
+.web-1920-5 .facebook-icon-preview-1 {
+  height: 109px;
+  left: 178px;
+  object-fit: cover;
+  position: absolute;
+  top: 44px;
+  width: 109px;
+}
+.web-1920-5 .faq {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 95px;
+  white-space: nowrap;
+}
+.web-1920-5 .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -1.0px;
+  margin-left: 129px;
+  min-height: 122px;
+  width: 224px;
+}
+.web-1920-5 .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -1.0px;
+  margin-left: 249px;
+  min-height: 122px;
+  width: 126px;
+}
+.web-1920-5 .flex-col-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -1.0px;
+  margin-left: 192px;
+  min-height: 122px;
+  width: 107px;
+}
+.web-1920-5 .frequently-asked-que {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-top: 104px;
+  min-height: 1526px;
+  width: 1614px;
+}
+.web-1920-5 .group-15 {
+  align-items: flex-end;
+  display: flex;
+  margin-right: 12.0px;
+  min-width: 1614px;
+}
+.web-1920-5 .group-16 {
+  align-items: flex-end;
+  display: flex;
+  margin-top: 4px;
+  min-width: 1616px;
+}
+.web-1920-5 .group-2 {
+  align-items: flex-end;
+  background-color: var(--science-blue);
+  border-radius: 21px;
+  cursor: pointer;
+  display: flex;
+  height: 68px;
+  justify-content: flex-end;
+  margin-bottom: 15px;
+  margin-left: 184px;
+  min-width: 259px;
+  padding: 8px 72px;
+}
+.web-1920-5 .group-3 {
+  align-items: flex-end;
+  background-color: var(--science-blue);
+  border-radius: 21px;
+  cursor: pointer;
+  display: flex;
+  height: 68px;
+  justify-content: flex-end;
+  margin-bottom: 15px;
+  margin-left: 184px;
+  min-width: 259px;
+  padding: 9px 50px;
+}
+.web-1920-5 .group-4 {
+  align-items: flex-end;
+  background-color: var(--science-blue);
+  border-radius: 21px;
+  cursor: pointer;
+  display: flex;
+  height: 68px;
+  justify-content: flex-end;
+  margin-bottom: 16px;
+  min-width: 259px;
+  padding: 9px 43px;
+}
+.web-1920-5 .group-5 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 184px;
+  min-width: 287px;
+}
+.web-1920-5 .icaddtoqueue24px {
+  cursor: pointer;
+  height: 71px;
+  margin-left: 1.26px;
+  object-fit: cover;
+  width: 99px;
+}
+.web-1920-5 .icairplay24px {
+  cursor: pointer;
+  height: 63px;
+  object-fit: cover;
+  width: 107px;
+}
+.web-1920-5 .icmovie24px {
+  cursor: pointer;
+  height: 58px;
+  margin-right: 3.44px;
+  object-fit: cover;
+  width: 111px;
+}
+.web-1920-5 .image-1 {
+  height: 78px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 59px;
+  width: 78px;
+}
+.web-1920-5 .instagramorigin-194901224047116 {
+  height: 152px;
+  left: 61px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 152px;
+}
+.web-1920-5 .login {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 3.0px;
+  margin-top: 16px;
+  min-height: 42px;
+  min-width: 91px;
+  white-space: nowrap;
+}
+.web-1920-5 .overlap-group {
+  height: 137px;
+  margin-bottom: -2px;
+  margin-left: 256px;
+  position: relative;
+  width: 59px;
+}
+.web-1920-5 .overlap-group-1 {
+  height: 153px;
+  position: relative;
+  width: 287px;
+}
+.web-1920-5 .place {
+  letter-spacing: 0;
+  line-height: 35px;
+  min-height: 49px;
+  min-width: 157px;
+  white-space: nowrap;
+}
+.web-1920-5 .signup {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: 8px;
+  min-height: 42px;
+  min-width: 126px;
+  text-align: center;
+  white-space: nowrap;
+}
+.web-1920-5 .square-eyes-logo {
+  cursor: pointer;
+  height: 144px;
+  object-fit: cover;
+  width: 271px;
+}
+.web-1920-5 .terms {
+  letter-spacing: 0;
+  line-height: 35px;
+  min-height: 49px;
+  min-width: 113px;
+  white-space: nowrap;
+}
+.web-1920-5 .text-6 {
+  left: 10px;
+  letter-spacing: 0;
+  line-height: 86px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}

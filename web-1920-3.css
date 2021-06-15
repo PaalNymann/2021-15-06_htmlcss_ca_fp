@@ -1,0 +1,270 @@
+/* screen - web-1920-3 */
+
+.web-1920-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  padding: 54px 135px;
+  width: 1920px;
+}
+.web-1920-3 .about-us {
+  letter-spacing: 0;
+  line-height: 35px;
+  min-height: 49px;
+  min-width: 170px;
+  white-space: nowrap;
+}
+.web-1920-3 .downloads {
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-top: 15px;
+  min-height: 49px;
+  min-width: 224px;
+  white-space: nowrap;
+}
+.web-1920-3 .facebook-icon-preview-1 {
+  height: 109px;
+  left: 178px;
+  object-fit: cover;
+  position: absolute;
+  top: 44px;
+  width: 109px;
+}
+.web-1920-3 .faq {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 95px;
+  white-space: nowrap;
+}
+.web-1920-3 .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -1.0px;
+  margin-left: 192px;
+  min-height: 122px;
+  width: 107px;
+}
+.web-1920-3 .flex-col-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -1.0px;
+  margin-left: 129px;
+  min-height: 122px;
+  width: 224px;
+}
+.web-1920-3 .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -1.0px;
+  margin-left: 249px;
+  min-height: 122px;
+  width: 126px;
+}
+.web-1920-3 .group-10 {
+  align-items: flex-end;
+  display: flex;
+  min-width: 1614px;
+}
+.web-1920-3 .group-13 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 5px;
+  margin-top: 126px;
+  min-height: 294px;
+  width: 1364px;
+}
+.web-1920-3 .group-2 {
+  align-items: flex-end;
+  background-color: var(--science-blue);
+  border-radius: 21px;
+  cursor: pointer;
+  display: flex;
+  height: 68px;
+  justify-content: flex-end;
+  margin-bottom: 17px;
+  margin-left: 184px;
+  min-width: 259px;
+  padding: 8px 72px;
+}
+.web-1920-3 .group-3 {
+  align-items: flex-end;
+  background-color: var(--science-blue);
+  border-radius: 21px;
+  cursor: pointer;
+  display: flex;
+  height: 68px;
+  justify-content: flex-end;
+  margin-bottom: 17px;
+  margin-left: 184px;
+  min-width: 259px;
+  padding: 9px 50px;
+}
+.web-1920-3 .group-4 {
+  align-items: flex-end;
+  background-color: var(--science-blue);
+  border-radius: 21px;
+  cursor: pointer;
+  display: flex;
+  height: 68px;
+  justify-content: flex-end;
+  margin-bottom: 18px;
+  min-width: 259px;
+  padding: 9px 43px;
+}
+.web-1920-3 .group-5 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 184px;
+  min-width: 287px;
+}
+.web-1920-3 .group-7 {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  margin-top: 57px;
+  min-width: 1616px;
+}
+.web-1920-3 .icaddtoqueue24px {
+  cursor: pointer;
+  height: 71px;
+  margin-left: 1.26px;
+  object-fit: cover;
+  width: 99px;
+}
+.web-1920-3 .icairplay24px {
+  height: 63px;
+  object-fit: cover;
+  width: 107px;
+}
+.web-1920-3 .icmovie24px {
+  cursor: pointer;
+  height: 58px;
+  margin-right: 3.44px;
+  object-fit: cover;
+  width: 111px;
+}
+.web-1920-3 .image-1 {
+  height: 78px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 59px;
+  width: 78px;
+}
+.web-1920-3 .instagramorigin-194901224047116 {
+  height: 152px;
+  left: 61px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 152px;
+}
+.web-1920-3 .login {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 3.0px;
+  margin-top: 16px;
+  min-height: 42px;
+  min-width: 91px;
+  white-space: nowrap;
+}
+.web-1920-3 .overlap-group {
+  height: 153px;
+  position: relative;
+  width: 287px;
+}
+.web-1920-3 .overlap-group-1 {
+  height: 137px;
+  margin-bottom: -2px;
+  margin-left: 256px;
+  position: relative;
+  width: 59px;
+}
+.web-1920-3 .overlap-group1 {
+  height: 49px;
+  margin-top: 101px;
+  position: relative;
+  width: 159px;
+}
+.web-1920-3 .overlap-group2 {
+  height: 49px;
+  position: relative;
+  width: 169px;
+}
+.web-1920-3 .password {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+.web-1920-3 .place {
+  letter-spacing: 0;
+  line-height: 35px;
+  min-height: 49px;
+  min-width: 157px;
+  white-space: nowrap;
+}
+.web-1920-3 .rectangle-10 {
+  background-color: var(--white);
+  height: 95px;
+  margin-left: 15px;
+  margin-top: 79px;
+  width: 1364px;
+}
+.web-1920-3 .rectangle-4 {
+  background-color: var(--white);
+  height: 95px;
+  margin-top: 2px;
+  width: 1364px;
+}
+.web-1920-3 .signup {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: 8px;
+  min-height: 42px;
+  min-width: 126px;
+  text-align: center;
+  white-space: nowrap;
+}
+.web-1920-3 .square-eyes-logo {
+  cursor: pointer;
+  height: 144px;
+  object-fit: cover;
+  width: 271px;
+}
+.web-1920-3 .terms {
+  letter-spacing: 0;
+  line-height: 35px;
+  min-height: 49px;
+  min-width: 113px;
+  white-space: nowrap;
+}
+.web-1920-3 .text-4 {
+  cursor: pointer;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: 86px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+.web-1920-3 .username {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
